@@ -1,0 +1,146 @@
+.f1{
+    padding: 10px;
+    width: 500px;
+    border: 1px solid #C2C2C2;
+border-radius: 5px;
+}
+.f2{
+      width: 524px;
+      padding: 10px;
+      border-radius: 5px;
+
+}
+
+body{
+    margin: 0px;
+    
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+padding: 10px;
+    width: 50%;
+}
+
+.connect{
+    width: 10%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-style: 30px;
+    font-family: verdana;
+    height: 30px;
+
+   
+    padding: 4px;
+    border-radius: 20px;
+    background-color:#51C5FF ;
+    color: white;
+}
+.a{
+    font-size: 17px;
+    font-family: verdana;
+    font-weight: bold;
+    color: #CCCCCC;
+}
+.a:hover{
+    color: #2FC2F6;
+}
+
+a{
+    text-decoration: none;
+}
+.a1{
+    height: 350px;
+   
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.aa1{
+    height: 290px;
+    width: 25%;
+    border: 1px solid red;
+    border: 2px solid #F2F2F2;
+    border-radius: 9px;
+}
+table{
+    width: 100%;
+    background-color: white;
+    color: rgb(41, 38, 228);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    margin-top: 2%;
+    text-align: center;
+    box-shadow: 0 20 10 rgb(17, 17, 17);
+}
+.titre-tableau
+    {
+        text-align: center;
+        color: rgb(74, 165, 240);
+        font-size: 25px;
+        box-shadow: 0 20 10 rgb(80, 79, 79);
+
+    }
+.element1
+    {
+        background-color: rgb(173, 198, 230);
+        color: rgb(10, 10, 10);
+        box-shadow: 0 20 10 rgb(80, 79, 79);
+    }
+.element2
+    {
+        background-color: white;
+        color: rgb(14, 37, 35);
+        box-shadow: 0 20 10 rgb(80, 79, 79);
+    }
+
+#plan
+    {
+        background-color: rgb(240, 236, 236);
+    }
+    /* Ici nous commenĂ§ons les la page formulaire1*/
+
+#corps-forme
+    {
+        background-color: rgb(27, 27, 27);
+    }
+    form{
+        margin-left: 30%;
+    }
+    .l{
+        margin-top: 10px;
+    }
+    .legend{
+        color: white;
+        display: inline-block;
+        background-color: #B5FDF3;
+padding: 7px;
+border-radius: 50px;
+margin-left: 200px;
+        font-size: 22px;
+    }
+    #valider{
+        padding: 12px;
+        margin-left: 200px;
+        color: white;
+        background-color: black;
+        border-radius: 10px;
+    }
+    .titre1{
+
+    }
+    button{
+         padding: 8px;
+   
+    border-radius: 6px;
+    display: inline-block;
+     background-color: #3288BD;
+     color: white;
+     margin-left: 79%;
+     border: 1px solid #CCCCCC;
+    }
